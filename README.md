@@ -1,7 +1,10 @@
 # Numpy Tutorial
 
-Repository for Numpy examples, with links to understanding the concepts.
+Repository for Numpy examples, with links for understanding the concepts.
 
+### Goal
+
+The work is considered complete, when we have 101 examples.
 
 ### Topics
 
