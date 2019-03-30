@@ -13,3 +13,5 @@ The work is considered complete, when we have 101 examples.
 2. Rollaxis
 3. Sum along Axis
 4. Creating Arrays in multiple ways
+5. Linspace
+6. Range of numbers using arange.
