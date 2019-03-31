@@ -9,9 +9,10 @@ The work is considered complete, when we have 101 examples.
 ### Topics
 
 
-1. Transpose
-2. Rollaxis
-3. Sum along Axis
-4. Creating Arrays in multiple ways
-5. Linspace
-6. Range of numbers using arange.
+1. Transpose using `transpose`
+2. Rollaxis using `rollaxis`
+3. Sum along Axis using `.sum`
+4. Creating `ndarray` in multiple ways
+5. Linear Space Range using `linspace`
+6. Range of numbers using `arange`.
+7. Creating a numpy array using `asarray`
